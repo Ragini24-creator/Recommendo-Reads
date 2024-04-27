@@ -1,13 +1,352 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: "Roboto Flex", sans-serif;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.logo {
+  color: #fff;
+  margin-top: 0.9rem;
+  margin-left: 2rem;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.logo-first-letter {
+  font-size: 3rem;
+  color: #e64980;
+}
+
+.search {
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  justify-self: center;
+  outline: none;
+  border: none;
+  font-size: 1.1rem;
+  width: 25rem;
+  padding: 0.1rem 1.4rem;
+  border-radius: 0.5rem;
+  box-shadow: 0.3rem 0.3rem 1rem #495057;
+}
+
+.cart-logo {
+  cursor: pointer;
+  margin-bottom: 1.1rem;
+  padding: 0.7rem, 1.1rem;
+  border: none;
+  margin-right: 1rem;
+  margin-top: 2.6rem;
+  background-color: #9775fa;
+}
+
+.cart-count {
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  background-color: #e64980;
+  font-size: 1.1rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 50%;
+}
+
+.CartContainer {
+  max-height: 700px;
+  overflow-y: auto;
+  padding: 1rem 1.5rem;
+  /* margin-bottom: 1.4rem; */
+  border-radius: 1.2rem;
+  position: absolute;
+  width: 24rem;
+  background-color: #fff;
+  box-shadow: 0.2rem 0.2rem 2.5rem #868e96;
+  right: 0.5%;
+  /* top: 38%;
+  right: 7%; */
+}
+
+.CartContainer h2 {
+  color: #7950f2;
+  margin-left: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.cartItem {
+  border-radius: 1.2rem;
+  box-shadow: 0.2rem 0.2rem 2.5rem #868e96;
+
+  padding: 0.5rem 1rem;
+  display: flex;
+  gap: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #000;
+}
+
+.cartItem span {
+  display: block;
+  width: 6rem;
+  padding: 0.7 1.4rem;
+  margin-top: 1.2rem;
+  background-color: #7950f2;
+  color: #fff;
+  text-align: center;
+}
+
+.cartItem button {
+  margin-top: 0.5rem;
+  cursor: pointer;
+  color: #fff;
+  background-color: #fa5252;
+  padding: 0.2rem 0.9rem;
+  border-radius: 0.3rem;
+  border: none;
+
+  transition: background-color 2s;
+}
+
+.cartItem button:hover {
+  background-color: #c92a2a;
+}
+
+.header {
+  position: relative;
+  border-radius: 0.8rem;
+  background-color: #9775fa;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.book-container {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 4rem;
+  column-gap: 3.5rem;
+}
+
+.rating-cartbutton-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-to-cart {
+  background-color: #7950f2;
+  color: #fff;
+  padding: 0.3rem 0.6rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 2s, 1s;
+}
+
+.add-to-cart:hover {
+  background-color: #6741d9;
+}
+
+.book-item {
+  padding-left: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 1.5rem;
+  min-height: 2rem;
+  max-height: 50rem;
+  max-width: 19.5rem;
+
+  box-shadow: 0.2rem 0.2rem 2.5rem #dee2e6;
+}
+
+.book-item img {
+  margin-bottom: 1.2rem;
+}
+
+.book-item h2 {
+  margin-bottom: 0.2rem;
+  line-height: 1.1;
+}
+
+.book-item p {
+  margin-bottom: 1.1rem;
+}
+
+.book-item span svg {
+  margin-right: 0.4rem;
+}
+
+/* Book Details  */
+.modal-overlay {
+  overflow-y: auto;
+  position: fixed;
+  top: 5%;
+  left: 10px;
+  width: 100%;
+  height: 87%;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.modal-window {
+  background-color: #fff;
+  color: #000;
+  padding: 3rem 6rem;
+  box-shadow: 2rem 2rem 12rem #adb5bd;
+}
+
+.modal-window h1 {
+  background-color: #e64980;
+  color: #fff;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  margin-bottom: 3.2rem;
+}
+
+.modal-content {
+  padding: 2rem 4rem;
+  color: #000;
+}
+
+.modal-content h2 {
+  margin-bottom: 1.4rem;
+}
+
+.modal-content {
+  display: flex;
+  gap: 1.4rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.modal-content p {
+  margin-top: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 1.2rem;
+  color: #000;
+}
+
+.modal-content button {
+  background-color: #7950f2;
+  color: #fff;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.2rem 0.4rem;
+  font-size: 1.2rem;
+}
+
+.star-rating {
+  margin-top: 0.8rem;
+}
+
+/* .modal-content-second-div {
+  border-right: 1px solid #ccc;
+} */
+
+.modal-content-img-div {
+  margin-right: 4rem;
+  margin-top: 5rem;
+  background-color: #fff;
+  padding: 1rem 2rem;
+  height: 50%;
+}
+
+.modal-content-img-div img {
+  padding: 0.7rem 1rem;
+  box-shadow: 0.2rem 0.2rem 2.5rem #dee2e6;
+}
+
+/* BOOk RECOMMENDATION */
+.book-recommendation h2 {
+  color: #000;
+}
+
+.recommended-for-you-heading {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.recommendation-container {
+  display: flex;
+  gap: 1.5rem;
+}
+
+/* SHOW MORE BUTTON */
+
+.show-more-button {
+  margin-top: 20px;
+  padding: 1.5rem 3rem;
+  background-color: #7950f2;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 2.2rem;
+  height: 4rem;
+}
+
+.show-more-button:hover {
+  background-color: #6741d9;
+}
+
+/* CART RECOMMENDATIOn */
+.cartRecommendation-heading {
+  text-align: center;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  background-color: #e64980;
+}
+
+.cartRecommendation {
+  margin-top: 2.8rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  column-gap: 1.5rem;
+  row-gap: 3rem;
+}
+
+/* Search recommendation */
+.Top5-heading {
+  text-align: center;
+  margin-top: 2rem;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  background-color: #e64980;
+}
+
+.SearchRecommendationTop5 {
+  margin-top: 2.8rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.2rem;
+}
+
+/*  */
+.searchHistoryBasedRecommendContainer {
+  margin-top: 2.8rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 1.5rem;
+  row-gap: 3rem;
+}
+
+.RecentSearchRecommendation-heading {
+  text-align: center;
+  margin-top: 2rem;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  background-color: #e64980;
 }

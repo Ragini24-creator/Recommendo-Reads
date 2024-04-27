@@ -1,0 +1,1406 @@
+{
+  "Thriller": [
+    
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image_link": "silent_patient_image_link",
+      "rating": 4.03,
+      "genre": "Thriller",
+      "description": "A therapist unravels the mystery behind a woman's selective mutism and the shocking crime she's accused of committing."
+    },
+    {
+      "title": "The Woman in the Window",
+      "author": "A.J. Finn",
+      "image_link": "woman_in_window_image_link",
+      "rating": 3.86,
+      "genre": "Thriller",
+      "description": "An agoraphobic woman witnesses a disturbing event in her neighbor's house, leading to a gripping psychological thriller."
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "image_link": "gone_girl_image_link",
+      "rating": 4.07,
+      "genre": "Thriller",
+      "description": "On their fifth wedding anniversary, Nick's wife Amy disappears, and all fingers point to him. But is everything as it seems?"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "image_link": "da_vinci_code_image_link",
+      "rating": 3.84,
+      "genre": "Thriller",
+      "description": "Professor Robert Langdon is thrust into a whirlwind adventure as he unravels secrets hidden in the works of Leonardo da Vinci."
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "image_link": "girl_on_train_image_link",
+      "rating": 3.9,
+      "genre": "Thriller",
+      "description": "Rachel, an alcoholic, becomes entangled in a missing person's investigation after witnessing something shocking from her train window."
+    },
+    {
+      "title": "Before I Go to Sleep",
+      "author": "S.J. Watson",
+      "image_link": "before_i_sleep_image_link",
+      "rating": 3.88,
+      "genre": "Thriller",
+      "description": "Christine suffers from amnesia and wakes up every day with no memory of her life. As she tries to piece together her past, she discovers shocking truths."
+    },
+    {
+      "title": "The Girl Who Played with Fire",
+      "author": "Stieg Larsson",
+      "image_link": "girl_played_fire_image_link",
+      "rating": 4.23,
+      "genre": "Thriller",
+      "description": "Lisbeth Salander is accused of triple murder, and journalist Mikael Blomkvist is determined to prove her innocence, uncovering a conspiracy along the way."
+    },
+    {
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "image_link": "big_little_lies_image_link",
+      "rating": 4.25,
+      "genre": "Thriller",
+      "description": "In a quiet seaside town, a school trivia night turns deadly, and the secrets of three women unravel amidst the investigation."
+    },
+    {
+      "title": "The Wife Between Us",
+      "author": "Greer Hendricks, Sarah Pekkanen",
+      "image_link": "wife_between_us_image_link",
+      "rating": 3.86,
+      "genre": "Thriller",
+      "description": "A psychological thriller about a tangled web of love, deceit, and betrayal between a woman, her ex-husband, and his new fiancée."
+    },
+    {
+      "title": "The Reversal",
+      "author": "Michael Connelly",
+      "image_link": "reversal_image_link",
+      "rating": 4.14,
+      "genre": "Thriller",
+      "description": "Defense attorney Mickey Haller is recruited to prosecute a high-profile case, but the truth might be more complex than it seems."
+    },
+    {
+      "title": "Before the Fall",
+      "author": "Noah Hawley",
+      "image_link": "before_fall_image_link",
+      "rating": 3.74,
+      "genre": "Thriller",
+      "description": "After a private jet crashes, only two survivors remain, and the investigation into the crash reveals shocking secrets about the passengers."
+    },
+    {
+      "title": "Behind Closed Doors",
+      "author": "B.A. Paris",
+      "image_link": "behind_closed_doors_image_link",
+      "rating": 3.95,
+      "genre": "Thriller",
+      "description": "On the surface, Jack and Grace seem like the perfect couple, but behind closed doors, their marriage hides a dark secret."
+    },
+    {
+      "title": "The Snowman",
+      "author": "Jo Nesbø",
+      "image_link": "snowman_image_link",
+      "rating": 4.01,
+      "genre": "Thriller",
+      "description": "Detective Harry Hole investigates a series of gruesome murders where the killer leaves a snowman as his calling card."
+    }
+  ]
+}
+
+{
+    "Romance": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+        "rating": 4.25,
+        "genre": [
+          "Historical Fiction",
+          "Romance",
+          "Fantasy",
+          "Fiction",
+          "Time Travel",
+          "Historical",
+          "Historical Romance"
+        ],
+        "description": "The story of Elizabeth Bennet and Mr. Darcy's tumultuous relationship in early 19th-century England."
+      },
+      {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483183484i/33648131.jpg",
+        "rating": 4.11,
+        "genre":[
+          "Romance",
+          "Fiction",
+          "Contemporary",
+          "Chick Lit",
+          "Adult",
+          "Adult Fiction"
+        ],
+        "description": "A sweeping love story that spans decades, about a young couple's journey through love, loss, and rediscovery."
+      },
+      {
+        "title": "Outlander",
+        "author": "Diana Gabaldon",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964.jpg",
+        "rating": 4.23,
+        "genre": [
+          "Young Adult",
+          "Fiction",
+          "Contemporary",
+          "Realistic Fiction",
+          "Teen",
+          "Coming Of Age"
+        ],
+        "description": "Claire Randall, a WWII nurse, is mysteriously transported to 18th-century Scotland, where she falls in love with a dashing Highlander."
+      },
+      {
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg",
+        "rating": 4.27,
+        "genre":  [
+          "Romance",
+          "Fiction",
+          "Chick Lit",
+          "Contemporary",
+          "Adult",
+          "Adult Fiction",
+          "Novels",
+          "British Literature",
+          "Drama",
+          "Love"
+        ],
+        "description": "A heartwarming tale of an unlikely romance between a young woman and a paralyzed man, which challenges societal norms and perceptions."
+      },
+      {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg",
+        "rating": 4.24,
+        "genre": [
+          "Fiction",
+          "Romance",
+          "Fantasy",
+          "Time Travel",
+          "Science Fiction",
+          "Contemporary",
+          "Adult",
+          "Chick Lit",
+          "Magical Realism",
+          "Adult Fiction"
+        ],
+        "description": "Hazel Grace Lancaster, a 16-year-old cancer patient, falls in love with Augustus Waters, another cancer survivor, and together they embark on a journey of love and loss."
+      },
+      {
+        "title": "One Day",
+        "author": "David Nicholls",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327873020i/6280118.jpg",
+        "rating": 3.78,
+        "genre": [
+          "Romance",
+          "Fiction",
+          "Chick Lit",
+          "Contemporary",
+          "Adult",
+          "Adult Fiction",
+          "Novels",
+          "British Literature",
+          "Drama",
+          "Love"
+        ],
+        "description": "The story follows Emma and Dexter on the same day, July 15th, over 20 years, capturing the ups and downs of their complicated relationship."
+      },
+      {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380660571i/18619684.jpg",
+        "rating": 3.97,
+        "genre": [
+          "Fiction",
+          "Romance",
+          "Fantasy",
+          "Time Travel",
+          "Science Fiction",
+          "Contemporary",
+          "Adult",
+          "Chick Lit",
+          "Magical Realism",
+          "Adult Fiction"
+        ],
+        "description": "Henry DeTamble involuntarily travels through time, and his wife Clare, who lives a normal life, struggles to cope with his absence and sporadic appearances."
+      },
+      {
+        "title": "Anna and the French Kiss",
+        "author": "Stephanie Perkins",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358271931i/6936382.jpg",
+        "rating": 4.04,
+        "genre": [
+          "Romance",
+          "Young Adult",
+          "Contemporary",
+          "Fiction",
+          "Chick Lit",
+          "Realistic Fiction",
+          "Contemporary Romance",
+          "Young Adult Contemporary",
+          "Young Adult Romance",
+          "Teen"
+        ],
+        "description": "A charming love story set in Paris, where Anna Oliphant navigates friendship, love, and self-discovery during her year abroad."
+      },
+      {
+        "title": "Attachments",
+        "author": "Rainbow Rowell",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499377988i/8909152.jpg",
+        "rating": 3.93,
+        "genre":[
+          "Romance",
+          "Fiction",
+          "Contemporary",
+          "Chick Lit",
+          "Adult",
+          "Young Adult",
+          "Adult Fiction",
+          "Contemporary Romance",
+          "Realistic Fiction",
+          "Humor"
+        ],
+        "description": "Lincoln, a socially awkward IT guy, falls for Beth and Jennifer through their email conversations, but can he muster the courage to reveal himself?"
+      },
+      {
+        "title": "Meant to Be",
+        "author": "Lauren Morrill",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635577470i/58935768.jpg",
+        "rating": 3.88,
+        "genre":  [
+          "Romance",
+          "Fiction",
+          "Audiobook",
+          "Chick Lit",
+          "Historical Fiction",
+          "Contemporary",
+          "Adult",
+          "Contemporary Romance",
+          "Adult Fiction",
+          "Historical"
+        ],
+        "description": "Julia and Jason are polar opposites, but when they're stranded in London together, they discover that maybe they're meant to be after all."
+      },
+      {
+        "title": "The Hating Game",
+        "author": "Sally Thorne",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481566824i/27213238.jpg",
+        "rating": 4.08,
+        "genre":   [
+          "Romance",
+          "Contemporary",
+          "Contemporary Romance",
+          "Fiction",
+          "Chick Lit",
+          "Adult",
+          "Audiobook",
+          "New Adult",
+          "Humor",
+          "Adult Fiction"
+        ],
+        "description": "Lucy and Joshua, coworkers who can't stand each other, engage in a fierce rivalry, but their animosity masks a deeper attraction."
+      },
+     
+      {
+        "title": "Eleanor & Park",
+        "author": "Rainbow Rowell",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341952742i/15745753.jpg",
+        "rating": 4.09,
+        "genre":  [
+          "Young Adult",
+          "Romance",
+          "Fiction",
+          "Contemporary",
+          "Realistic Fiction",
+          "Audiobook",
+          "Coming Of Age",
+          "Teen",
+          "Young Adult Contemporary",
+          "High School"
+        ],
+        "description": "Two misfits, Eleanor and Park, find solace in each other's company on the school bus, developing a deep and unexpected romance."
+      }
+
+
+       // {
+      //   "title": "Attachments",
+      //   "author": "Rainbow Rowell",
+      //   "image_link": "attachments_image_link",
+      //   "rating": 3.93,
+      //   "genre": [],
+      //   "description": "Lincoln, a socially awkward IT guy, falls for Beth and Jennifer through their email conversations, but can he muster the courage to reveal himself?"
+      // },
+      // {
+      //   "title": "Meant to Be",
+      //   "author": "Lauren Morrill",
+      //   "image_link": "meant_be_image_link",
+      //   "rating": 3.88,
+      //   "genre": "Romance",
+      //   "description": "Julia and Jason are polar opposites, but when they're stranded in London together, they discover that maybe they're meant to be after all."
+      // },
+      // {
+      //   "title": "The Hating Game",
+      //   "author": "Sally Thorne",
+      //   "image_link": "hating_game_image_link",
+      //   "rating": 4.08,
+      //   "genre": "Romance",
+      //   "description": "Lucy and Joshua, coworkers who can't stand each other, engage in a fierce rivalry, but their animosity masks a deeper attraction."
+      // },
+    ]
+  }
+  
+  {
+    "Science Fiction": [
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+        "rating": 4.21,
+        "genre":  ["Science Fiction", "Fiction", "Space", "Fantasy", "Science Fiction Fantasy", "Mystery", "Horror", "Adult", "Adventure"],
+        "description": "Set in a distant future where noble families control planets, Dune follows the story of Paul Atreides as he navigates political intrigue and mystical prophecy on the desert planet of Arrakis."
+      },
+      {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+        "rating": 3.89,
+        "genre": ["Science Fiction", "Fiction", "Thriller", "Adventure", "Fantasy", "Horror", "Classics", "Dinosaurs", "Science Fiction Fantasy", "Adult"],
+        "description": "Considered one of the defining works of the cyberpunk genre, Neuromancer follows the story of Case, a washed-up computer hacker, who is hired by a mysterious employer for one last job."
+      },
+      {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417900846i/29579.jpg",
+        "rating": 4.15,
+        "genre":  ["Science Fiction", "Fiction", "Science Fiction Fantasy", "Space", "Fantasy", "Space Opera", "Speculative Fiction", "Hard Science Fiction"],
+        "description": "Foundation is the first book in Asimov's iconic series, exploring the rise and fall of civilizations in a galaxy-spanning future, and the efforts of psychohistorian Hari Seldon to preserve knowledge and guide humanity."
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531891848i/11.jpg",
+        "rating": 4.22,
+        "genre":  ["Science Fiction", "Fiction", "Cyberpunk", "Mystery", "Thriller", "Noir", "Crime", "Science Fiction Fantasy", "Fantasy"],
+        "description": "A comedic science fiction series following the misadventures of Arthur Dent, an ordinary human who is rescued by Ford Prefect, an alien writer for the titular guide, just before Earth is destroyed to make way for an interstellar highway."
+      },
+      {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg",
+        "rating": 4.30,
+        "genre": ["Science Fiction", "Fiction", "Fantasy", "Classics", "Science Fiction Fantasy", "Speculative Fiction", "Feminism", "Queer", "Novels", "LGBT"],
+        "description": "Set in a future where Earth is at war with an alien species, Ender's Game follows the story of Ender Wiggin, a young boy recruited into a military training program to become humanity's greatest hope for survival."
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+        "rating": 4.17,
+        "genre": ["Science Fiction", "Fiction", "Cyberpunk", "Fantasy", "Science Fiction Fantasy", "Dystopia", "Novels", "Speculative Fiction", "Classics"],
+        "description": "A dystopian novel set in a totalitarian society where the government, led by the oppressive figure Big Brother, monitors and controls every aspect of people's lives, with protagonist Winston Smith rebelling against the regime."
+      },
+      {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg",
+        "rating": 4.40,
+        "genre":  ["Classics", "Fiction", "Science Fiction", "Dystopia", "Literature", "Novels", "School", "Fantasy", "Philosophy"],
+        "description": "When astronaut Mark Watney is stranded on Mars after a mission gone wrong, he must use his ingenuity and scientific knowledge to survive on the hostile planet until rescue becomes possible."
+      },
+      {
+        "title": "Hyperion",
+        "author": "Dan Simmons",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405546838i/77566.jpg",
+        "rating": 4.23,
+        "genre":   ["Science Fiction", "Fiction", "Fantasy", "Space Opera", "Science Fiction Fantasy", "Horror", "Time Travel", "Classics", "Space"],
+        "description": "The first book in the Hyperion Cantos series, Hyperion is a space opera that weaves together the stories of seven pilgrims journeying to the distant planet of Hyperion, each with their own motives and secrets."
+      },
+      {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg",
+        "rating": 3.98,
+        "genre": ["Science Fiction", "Fiction", "Audiobook", "Adventure", "Space", "Adult", "Thriller", "Science Fiction Fantasy", "Humor", "Survival"],
+        "description": "A dystopian novel set in a future world where society is stratified into castes, and people are conditioned from birth to conform to their roles, with protagonist Bernard Marx challenging the status quo."
+      },
+      {
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883.jpg",
+        "rating": 4.03,
+        "genre": ["Classics", "Fiction", "Science Fiction", "Dystopia", "Literature", "Politics", "Novels", "School", "Fantasy", "Adult"],
+        "description": "A cyberpunk novel set in a future America where corporations wield immense power, and the protagonist, Hiro Protagonist, is a hacker and pizza delivery driver who becomes embroiled in a virtual reality conspiracy."
+      },
+      {
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423.jpg",
+        "rating": 4.05,
+        "genre": ["Fiction", "Young Adult","Science Fiction",  "Fantasy", "Classics", "Science Fiction Fantasy", "Dystopia", "War"],
+        "description": "Set on the planet Gethen, where its inhabitants can change gender at will, The Left Hand of Darkness follows the story of an envoy from the Ekumen as he navigates the complex politics and culture of the planet."
+      },
+      {
+        "title": "Altered Carbon",
+        "author": "Richard K. Morgan",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531415180i/40792913.jpg",
+        "rating": 4.05,
+        "genre":  ["Classics", "Adventure","Science Fiction", "Fiction", "Humor", "Fantasy", "Comedy", "Science Fiction Fantasy" ],
+        "description": "In a future where consciousness can be transferred between bodies, Altered Carbon follows the story of Takeshi Kovacs, a former soldier turned private investigator, as he investigates a rich man's murder."
+      },
+      {
+        "title": "Red Mars",
+        "author": "Kim Stanley Robinson",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660272828i/77507.jpg",
+        "rating": 3.86,
+        "genre":  [ "Space","Science Fiction", "Fiction", "Classics", "Science Fiction Fantasy", "Fantasy", "Space Opera", "Novels","Speculative Fiction"],
+        "description": "The first book in the Mars Trilogy, Red Mars follows the story of the first settlers on Mars as they terraform the planet and grapple with political and environmental challenges."
+      },
+      {
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658.jpg",
+        "rating": 4.00,
+        "genre": ["Science Fiction", "Fiction", "Cyberpunk", "Classics", "Dystopia", "Science Fiction Fantasy", "Fantasy", "Novels", "Speculative Fiction"],
+        "description": "In a remote island off the coast of Costa Rica, scientists clone dinosaurs and create a theme park, but chaos ensues when the dinosaurs escape and wreak havoc on the island."
+      },
+      {
+        "title": "The Expanse: Leviathan Wakes",
+        "author": "James S.A. Corey",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411013134i/8855321.jpg",
+        "rating": 4.23,
+        "genre": ["Science Fiction", "Fiction", "Fantasy", "Science Fiction Fantasy", "Classics", "Novels", "Adventure", "Adult", "Space"],
+        "description": "The first book in The Expanse series, Leviathan Wakes follows the crew of the Rocinante as they investigate a conspiracy that threatens to ignite interstellar war in the colonized solar system."
+      }
+    ]
+  }
+
+  
+  {
+    // "Education": [
+    //   {
+    //     "title": "Teach Like a Champion: 49 Techniques that Put Students on the Path to College",
+    //     "author": "Doug Lemov",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389752761i/7811877.jpg",
+    //     "rating": 4.16,
+    //     "genre": "Education",
+    //     "description": "A practical guide for teachers to implement effective teaching techniques that promote student success and college readiness."
+    //   },
+    //   {
+    //     "title": "How to Read a Book: The Classic Guide to Intelligent Reading",
+    //     "author": "Mortimer J. Adler, Charles Van Doren",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310993739i/567610.jpg",
+    //     "rating": 4.01,
+    //     "genre": "Education",
+    //     "description": "A comprehensive guide on the art of reading, covering various reading techniques and strategies to improve comprehension and critical thinking."
+    //   },
+    //   {
+    //     "title": "Mindset: The New Psychology of Success",
+    //     "author": "Carol S. Dweck",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436227012i/40745.jpg",
+    //     "rating": 4.07,
+    //     "genre": "Education",
+    //     "description": "Explores the concept of mindset and how having a growth mindset can lead to greater success and achievement in education and beyond."
+    //   },
+    //   {
+    //     "title": "The First Days of School: How to Be an Effective Teacher",
+    //     "author": "Harry K. Wong, Rosemary T. Wong",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433777088i/74814.jpg",
+    //     "rating": 4.02,
+    //     "genre": "Education",
+    //     "description": "A comprehensive guide for new and experienced teachers on classroom management, lesson planning, and creating a positive learning environment."
+    //   },
+    //   {
+    //     "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    //     "author": "Charles Duhigg",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312i/12609433.jpg",
+    //     "rating": 4.08,
+    //     "genre": "Education",
+    //     "description": "Explores the science behind habit formation and how understanding habits can lead to personal and professional success."
+    //   },
+    //   {
+    //     "title": "How Children Succeed: Grit, Curiosity, and the Hidden Power of Character",
+    //     "author": "Paul Tough",
+    //     "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344730141i/13435889.jpg",
+    //     "rating": 3.86,
+    //     "genre": "Education",
+    //     "description": "Examines the role of non-cognitive skills such as grit, curiosity, and character in determining success and resilience in children."
+    //   },
+      {
+        "title": "Make It Stick: The Science of Successful Learning",
+        "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631768711i/18770267.jpg",
+        "rating": 4.27,
+        "genre":   ["Nonfiction", "Education", "Self Help", "Psychology", "Science", "Productivity", "Teaching", "Personal Development"],
+        "description": "Presents evidence-based strategies for effective learning and retention, challenging common misconceptions about studying and memory."
+      },
+      {
+        "title": "The Smartest Kids in the World: And How They Got That Way",
+        "author": "Amanda Ripley",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408912974i/13259960.jpg",
+        "rating": 4.04,
+        "genre":  ["Education", "Nonfiction", "Parenting", "Psychology", "Teaching", "Adult", "Audiobook", "Sociology", "Science", "Politics"],
+        "description": "Follows the experiences of American high school students studying abroad in countries with top-performing education systems, exploring what makes their education systems successful."
+      },
+      {
+        "title": "The Art of Learning: An Inner Journey to Optimal Performance",
+        "author": "Josh Waitzkin",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348689792i/3381336.jpg",
+        "rating": 4.05,
+        "genre":  ["Nonfiction", "Self Help", "Psychology", "Education","Personal Development", "Education", "Biography", "Philosophy", "Productivity", "Business", "Chess"],
+        "description": "Chronicles the author's journey from chess prodigy to martial arts champion, exploring principles of learning, mastery, and performance."
+      },
+      {
+        "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement",
+        "author": "John Hattie",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348469280i/8526881.jpg",
+        "rating": 4.24,
+        "genre": ["Education", "Teaching", "Nonfiction", "Leadership", "School", "Research", "Science", "Self Help", "Social Science", "Grad School"],
+        "description": "Summarizes the findings of over 800 meta-analyses on educational research, identifying key factors that contribute to student achievement."
+      },
+      {
+        "title": "Drive: The Surprising Truth About What Motivates Us",
+        "author": "Daniel H. Pink",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348931599i/6452796.jpg",
+        "rating": 3.94,
+        "genre":  ["Nonfiction", "Business", "Psychology", "Leadership", "Self Help", "Personal Development", "Management", "Productivity", "Education"],
+        "description": "Explores the science of motivation and the factors that drive human behavior, challenging traditional notions of rewards and incentives.",
+      },
+      {
+        "title": "The Teenage Brain: A Neuroscientist's Survival Guide to Raising Adolescents and Young Adults",
+        "author": "Frances E. Jensen, Amy Ellis Nutt",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416177934i/18964642.jpg",
+        "rating": 3.94,
+        "genre": ["Parenting", "Nonfiction","Education", "Psychology", "Science", "Education", "Neuroscience", "Self Help", "Teaching", "Health"],
+        "description": "Examines the unique characteristics of the teenage brain and provides insights and strategies for parents, educators, and policymakers."
+      },
+      {
+        "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+        "author": "Cathy O'Neil",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091964i/28186015.jpg",
+        "rating": 3.89,
+        "genre": ["Nonfiction", "Education", "Science", "Technology", "Politics", "Mathematics", "Business", "Economics", "Sociology", "Artificial Intelligence"],
+        "description": "Explores the dark side of algorithms and big data, highlighting how they can perpetuate inequality and harm individuals and society."
+      },
+      {
+        "title": "The End of Average: How We Succeed in a World That Values Sameness",
+        "author": "Todd Rose",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444614253i/24186666.jpg",
+        "rating": 3.96,
+        "genre":  ["Nonfiction", "Education", "Psychology", "Business", "Self Help", "Science", "Personal Development", "Leadership", "Sociology"],
+        "description": "Argues against the notion of 'average' and advocates for personalized approaches to education and work that recognize individuality and diversity."
+      },
+      {
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506026635i/35133922.jpg",
+        "rating": 4.47,
+        "genre": ["Nonfiction", "Memoir", "Biography", "Biography Memoir", "Autobiography", "Education","Book Club", "Adult", "Religion", "Family"],
+        "description": "A memoir of the author's journey from a survivalist family in Idaho to earning a PhD from Cambridge University, exploring the power of education to transform lives."
+      },
+      {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+        "rating": 4.54,
+        "genre":  ["Programming", "Education","Nonfiction", "Computer Science", "Coding", "Technology", "Reference", "Technical", "Science", "Software", "Computers"],
+        "description": "A hands-on, project-based introduction to Python programming, covering basic syntax, data structures, and key concepts for beginners."
+      },
+      {
+        "title": "React: Up & Running",
+        "author": "Stoyan Stefanov",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450285051i/26177715.jpg",
+        "rating": 4.22,
+        "genre":["Programming", "Technology", "Education","Nonfiction", "Coding", "Technical"],
+        "description": "A comprehensive guide to building user interfaces with React, covering core concepts, best practices, and real-world examples."
+      },
+      {
+        "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+        "author": "Marijn Haverbeke",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308260856i/8910666.jpg",
+        "rating": 4.25,
+        "genre": [ "Technology", "Computer Science","Programming", "Education","Nonfiction", "Coding", "Technical", "Software", "Reference", "Computers", "Web"],
+        "description": "An in-depth introduction to JavaScript programming, covering language fundamentals, browser APIs, and advanced topics like functional programming."
+      },
+      {
+        "title": "HTML and CSS: Design and Build Websites",
+        "author": "Jon Duckett",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348805097i/10361330.jpg",
+        "rating": 4.36,
+        "genre":["Technology", "Coding","Programming","Education" "Nonfiction", "Design", "Computer Science", "Reference", "Website Design",  "Web", "Technical"],
+        "description": "A beginner-friendly guide to building websites with HTML and CSS, covering essential concepts, best practices, and design principles."
+      },
+      {
+        "title": "The Rust Programming Language",
+        "author": "Steve Klabnik, Carol Nichols",
+        "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518920310i/25008661.jpg",
+        "rating": 4.23,
+        "genre":["Programming", "Computer Science", "Technology", "Nonfiction", "Technical", "Software", "Computers", "Programming Languages", "Engineering", "Coding"],
+        "description": "An authoritative guide to the Rust programming language, covering syntax, memory management, concurrency, and practical examples of Rust in action."
+      }
+    ]
+  }
+    
+  {
+    "Biography": [
+      {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg",
+        "rating": 4.13,
+        "genre": "Biography",
+        "description": "A comprehensive biography of Steve Jobs, the co-founder of Apple Inc., exploring his visionary leadership, innovative products, and complex personality."
+      },
+      {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "image_link": "becoming_image_link",
+        "rating": 4.56,
+        "genre": "Biography",
+        "description": "Michelle Obama's memoir, recounting her journey from a childhood on the South Side of Chicago to becoming the First Lady of the United States."
+      },
+      {
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "image_link": "educated_image_link",
+        "rating": 4.47,
+        "genre": "Biography",
+        "description": "Tara Westover's memoir, depicting her upbringing in a survivalist family in Idaho and her quest for knowledge and education against all odds."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "author": "Walter Isaacson",
+        "image_link": "leonardo_da_vinci_image_link",
+        "rating": 4.23,
+        "genre": "Biography",
+        "description": "A biography of Leonardo da Vinci, the Renaissance polymath, examining his life, art, science, and enduring legacy."
+      },
+      {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "image_link": "diary_young_girl_image_link",
+        "rating": 4.13,
+        "genre": "Biography",
+        "description": "Anne Frank's diary, written during the Holocaust, offers a poignant and intimate account of her experiences in hiding during World War II."
+      },
+      {
+        "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "author": "Ashlee Vance",
+        "image_link": "elon_musk_image_link",
+        "rating": 4.24,
+        "genre": "Biography",
+        "description": "A biography of Elon Musk, the entrepreneur and CEO of Tesla and SpaceX, exploring his ambitious goals and innovative ventures."
+      },
+      {
+        "title": "Born a Crime: Stories from a South African Childhood",
+        "author": "Trevor Noah",
+        "image_link": "born_crime_image_link",
+        "rating": 4.45,
+        "genre": "Biography",
+        "description": "Trevor Noah's memoir, chronicling his upbringing in South Africa during apartheid and his journey to becoming a successful comedian and TV host."
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "image_link": "henrietta_lacks_image_link",
+        "rating": 4.06,
+        "genre": "Biography",
+        "description": "A narrative nonfiction book that tells the story of Henrietta Lacks, whose cells were used without her consent to advance medical research, leading to groundbreaking discoveries."
+      },
+      {
+        "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+        "author": "Laura Hillenbrand",
+        "image_link": "unbroken_image_link",
+        "rating": 4.38,
+        "genre": "Biography",
+        "description": "The biography of Louis Zamperini, an Olympic athlete and WWII bombardier who survived a plane crash, weeks adrift at sea, and brutal captivity in Japanese POW camps."
+      },
+      {
+        "title": "The Autobiography of Malcolm X",
+        "author": "Malcolm X, Alex Haley",
+        "image_link": "malcolm_x_image_link",
+        "rating": 4.30,
+        "genre": "Biography",
+        "description": "Malcolm X's autobiography, co-written with Alex Haley, traces his transformation from a street hustler to a prominent civil rights leader and advocate for black empowerment."
+      },
+      {
+        "title": "Just Mercy: A Story of Justice and Redemption",
+        "author": "Bryan Stevenson",
+        "image_link": "just_mercy_image_link",
+        "rating": 4.62,
+        "genre": "Biography",
+        "description": "Bryan Stevenson's memoir, recounting his experiences as a lawyer fighting for justice and equality, particularly for death row inmates and the wrongly convicted."
+      },
+      {
+        "title": "Hamilton: The Revolution",
+        "author": "Lin-Manuel Miranda, Jeremy McCarter",
+        "image_link": "hamilton_image_link",
+        "rating": 4.47,
+        "genre": "Biography",
+        "description": "A behind-the-scenes look at the creation of the Broadway musical 'Hamilton,' written by Lin-Manuel Miranda and inspired by the life of Alexander Hamilton."
+      },
+      {
+        "title": "Long Walk to Freedom",
+        "author": "Nelson Mandela",
+        "image_link": "long_walk_freedom_image_link",
+        "rating": 4.32,
+        "genre": "Biography",
+        "description": "Nelson Mandela's autobiography, detailing his lifelong struggle against apartheid in South Africa and his eventual presidency after years of imprisonment."
+      },
+      {
+        "title": "Lab Girl",
+        "author": "Hope Jahren",
+        "image_link": "lab_girl_image_link",
+        "rating": 4.04,
+        "genre": "Biography",
+        "description": "Hope Jahren's memoir, interweaving her personal experiences as a female scientist with insights into the natural world and the challenges of scientific research."
+      },
+      {
+        "title": "The Wright Brothers",
+        "author": "David McCullough",
+        "image_link": "wright_brothers_image_link",
+        "rating": 4.14,
+        "genre": "Biography",
+        "description": "A biography of Orville and Wilbur Wright, the inventors of the first successful airplane, exploring their pioneering achievements and the obstacles they overcame."
+      }
+    ]
+  }
+
+  {
+    "Non-Fiction": [
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
+        "rating": 4.45,
+        "genre": [
+          "Nonfiction",
+          "History",
+          "Science",
+          "Philosophy",
+          "Anthropology",
+          "Psychology",
+          "Sociology",
+          "Historical",
+          "Evolution"
+      ]
+      ,
+        "description": "Explores the history of Homo sapiens from the emergence of modern humans in Africa to the present day, examining key milestones and developments in human civilization."
+      },
+      {
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "author": "Mark Manson",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg",
+        "rating": 3.99,
+        "genre": [
+          "Nonfiction",
+          "Self Help",
+          "Psychology",
+          "Personal Development",
+          "Philosophy",
+          "Business",
+          "Mental Health",
+          "Humor",
+          "Unfinished"
+        ]
+        ,
+        "description": "Presents a refreshing approach to self-help, advocating for embracing life's uncertainties and focusing on what truly matters, rather than pursuing constant positivity."
+      },
+      {
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "image_link": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506026635i/35133922.jpg",
+        "rating": 4.47,
+        "genre": [
+          "Nonfiction",
+          "Memoir",
+          "Biography",
+          "Autobiography",
+          "Politics",
+          "Biography Memoir",
+          "Feminism",
+          "History",
+          "Adult"
+        ]
+        ,
+        "description": "Tara Westover's memoir, depicting her upbringing in a survivalist family in Idaho and her quest for knowledge and education against all odds."
+      },
+      {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "image_link": "becoming_image_link",
+        "rating": 4.56,
+        "genre": [
+          "Self Help",
+          "Nonfiction",
+          "Business",
+          "Psychology",
+          "Personal Development",
+          "Leadership",
+          "Communication",
+          "Classics",
+          "Relationships"
+      ]
+,      
+        "description": "Michelle Obama's memoir, recounting her journey from a childhood on the South Side of Chicago to becoming the First Lady of the United States."
+      },
+      {
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "image_link": "win_friends_influence_people_image_link",
+        "rating": 4.20,
+        "genre": "Non-Fiction",
+        "description": "A timeless classic on interpersonal relationships and communication skills, offering practical advice on building rapport, influencing others, and achieving success."
+      },
+      {
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "author": "James Clear",
+        "image_link": "atomic_habits_image_link",
+        "rating": 4.36,
+        "genre": "Non-Fiction",
+        "description": "Provides actionable strategies for creating and maintaining good habits, based on the principles of behavior change and habit formation."
+      },
+      {
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "author": "Charles Duhigg",
+        "image_link": "power_of_habit_image_link",
+        "rating": 4.08,
+        "genre": "Non-Fiction",
+        "description": "Explores the science behind habit formation and how understanding habits can lead to personal and professional success."
+      },
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "image_link": "thinking_fast_slow_image_link",
+        "rating": 4.13,
+        "genre": "Non-Fiction",
+        "description": "A groundbreaking exploration of human cognition, highlighting the two systems of thinking and their impact on decision-making, judgment, and behavior."
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "image_link": "henrietta_lacks_image_link",
+        "rating": 4.06,
+        "genre": "Non-Fiction",
+        "description": "A narrative nonfiction book that tells the story of Henrietta Lacks, whose cells were used without her consent to advance medical research, leading to groundbreaking discoveries."
+      },
+      {
+        "title": "Outliers: The Story of Success",
+        "author": "Malcolm Gladwell",
+        "image_link": "outliers_image_link",
+        "rating": 4.15,
+        "genre": "Non-Fiction",
+        "description": "Examines the factors that contribute to high levels of success, challenging the myth of individual merit and emphasizing the importance of environment and opportunity."
+      },
+      {
+        "title": "Born a Crime: Stories from a South African Childhood",
+        "author": "Trevor Noah",
+        "image_link": "born_crime_image_link",
+        "rating": 4.45,
+        "genre": "Non-Fiction",
+        "description": "Trevor Noah's memoir, chronicling his upbringing in South Africa during apartheid and his journey to becoming a successful comedian and TV host."
+      },
+      {
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "author": "Susan Cain",
+        "image_link": "quiet_image_link",
+        "rating": 4.07,
+        "genre": "Non-Fiction",
+        "description": "Explores the strengths and talents of introverts in a society that often values extroversion, offering insights into how introverts can thrive in various environments."
+      },
+      {
+        "title": "The Body: A Guide for Occupants",
+        "author": "Bill Bryson",
+        "image_link": "body_guide_occupants_image_link",
+        "rating": 4.35,
+        "genre": "Non-Fiction",
+        "description": "A fascinating exploration of the human body, covering its structure, functions, and remarkable capabilities, presented in Bill Bryson's engaging and accessible style."
+      },
+      {
+        "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "author": "Jared Diamond",
+        "image_link": "guns_germs_steel_image_link",
+        "rating": 4.02,
+        "genre": "Non-Fiction",
+        "description": "Examines the factors that shaped human history, including geography, agriculture, and technology, offering insights into the unequal distribution of power and resources."
+      },
+      {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "image_link": "mans_search_meaning_image_link",
+        "rating": 4.37,
+        "genre": "Non-Fiction",
+        "description": "Viktor Frankl's memoir, recounting his experiences as a Holocaust survivor and the development of logotherapy, a psychotherapeutic approach focused on finding meaning in life."
+      }
+    ]
+  }
+
+  {
+    "Philosophy & Life": [
+      {
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "image_link": "meditations_image_link",
+        "rating": 4.22,
+        "genre": "Philosophy & Life",
+        "description": "A series of personal writings by the Roman Emperor Marcus Aurelius, offering insights and reflections on Stoic philosophy and the challenges of life."
+      },
+      {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "image_link": "mans_search_meaning_image_link",
+        "rating": 4.37,
+        "genre": "Philosophy & Life",
+        "description": "Viktor Frankl's memoir, recounting his experiences as a Holocaust survivor and the development of logotherapy, a psychotherapeutic approach focused on finding meaning in life."
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image_link": "alchemist_image_link",
+        "rating": 3.85,
+        "genre": "Philosophy & Life",
+        "description": "A novel by Brazilian author Paulo Coelho, following the journey of a young shepherd named Santiago as he seeks his 'Personal Legend' and learns about life's lessons and the pursuit of dreams."
+      },
+      {
+        "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "author": "Eckhart Tolle",
+        "image_link": "power_of_now_image_link",
+        "rating": 4.13,
+        "genre": "Philosophy & Life",
+        "description": "Explores the concept of mindfulness and living in the present moment, offering practical advice for achieving spiritual enlightenment and inner peace."
+      },
+      {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "image_link": "siddhartha_image_link",
+        "rating": 4.01,
+        "genre": "Philosophy & Life",
+        "description": "A novel by German author Hermann Hesse, following the spiritual journey of Siddhartha Gautama as he seeks enlightenment and self-discovery."
+      },
+      {
+        "title": "Letters from a Stoic",
+        "author": "Seneca",
+        "image_link": "letters_from_stoic_image_link",
+        "rating": 4.32,
+        "genre": "Philosophy & Life",
+        "description": "A collection of letters by the Roman philosopher Seneca, addressing various aspects of Stoic philosophy and offering timeless wisdom on living a virtuous life."
+      },
+      {
+        "title": "The Art of Happiness",
+        "author": "Dalai Lama XIV, Howard C. Cutler",
+        "image_link": "art_of_happiness_image_link",
+        "rating": 4.16,
+        "genre": "Philosophy & Life",
+        "description": "A book that combines the insights of the Dalai Lama with the perspectives of Western psychiatrist Howard Cutler, exploring the keys to true happiness and inner peace."
+      },
+      {
+        "title": "The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth",
+        "author": "M. Scott Peck",
+        "image_link": "road_less_traveled_image_link",
+        "rating": 4.07,
+        "genre": "Philosophy & Life",
+        "description": "Blending psychology and spirituality, this book explores the importance of discipline, love, and spiritual growth in achieving fulfillment and personal transformation."
+      },
+      {
+        "title": "The Prophet",
+        "author": "Kahlil Gibran",
+        "image_link": "prophet_image_link",
+        "rating": 4.24,
+        "genre": "Philosophy & Life",
+        "description": "A poetic collection of philosophical essays, offering insights into various aspects of life, including love, marriage, work, and spirituality."
+      },
+      {
+        "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
+        "author": "Robert M. Pirsig",
+        "image_link": "zen_motorcycle_maintenance_image_link",
+        "rating": 3.77,
+        "genre": "Philosophy & Life",
+        "description": "Blending philosophy, travelogue, and autobiography, this book explores the author's journey of self-discovery and his philosophical reflections on quality and values."
+      },
+      {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "author": "Don Miguel Ruiz",
+        "image_link": "four_agreements_image_link",
+        "rating": 4.16,
+        "genre": "Philosophy & Life",
+        "description": "Offers a code of conduct based on ancient Toltec wisdom, presenting four agreements to transform one's life and achieve personal freedom and happiness."
+      },
+      {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "image_link": "walden_image_link",
+        "rating": 3.79,
+        "genre": "Philosophy & Life",
+        "description": "A transcendentalist work by Henry David Thoreau, reflecting on nature, solitude, and self-reliance during his two-year experiment of living in a cabin near Walden Pond."
+      },
+      {
+        "title": "Tao Te Ching",
+        "author": "Laozi",
+        "image_link": "tao_te_ching_image_link",
+        "rating": 4.33,
+        "genre": "Philosophy & Life",
+        "description": "An ancient Chinese philosophical text attributed to Laozi, offering insights into Taoism and the principles of harmony, simplicity, and the way of nature."
+      },
+      {
+        "title": "The Untethered Soul: The Journey Beyond Yourself",
+        "author": "Michael A. Singer",
+        "image_link": "untethered_soul_image_link",
+        "rating": 4.29,
+        "genre": "Philosophy & Life",
+        "description": "Explores the nature of consciousness and the path to spiritual growth and inner freedom, offering insights and practices for releasing limiting beliefs and emotions."
+      },
+      {
+        "title": "The Bhagavad Gita",
+        "author": "Vyasa",
+        "image_link": "bhagavad_gita_image_link",
+        "rating": 4.07,
+        "genre": "Philosophy & Life",
+        "description": "An ancient Indian scripture that presents a dialogue between Prince Arjuna and the god Krishna, offering insights into duty, righteousness, and the path to spiritual realization."
+      }
+    ]
+  }
+
+  {
+    "Crime Novels": [
+      {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "image_link": "girl_on_train_image_link",
+        "rating": 3.91,
+        "genre": "Crime",
+        "description": "A psychological thriller about a woman named Rachel who becomes embroiled in a missing persons investigation after witnessing something suspicious from the train."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "image_link": "silence_lambs_image_link",
+        "rating": 4.18,
+        "genre": "Crime",
+        "description": "An intense psychological thriller featuring FBI trainee Clarice Starling and incarcerated cannibalistic serial killer Dr. Hannibal Lecter, as they work together to catch another serial killer known as Buffalo Bill."
+      },
+      {
+        "title": "Sharp Objects",
+        "author": "Gillian Flynn",
+        "image_link": "sharp_objects_image_link",
+        "rating": 3.95,
+        "genre": "Crime",
+        "description": "A psychological thriller about a journalist returning to her hometown to cover the murder of two young girls, while confronting her own troubled past and dysfunctional family."
+      },
+      {
+        "title": "The Snowman",
+        "author": "Jo Nesbø",
+        "image_link": "snowman_image_link",
+        "rating": 4.04,
+        "genre": "Crime",
+        "description": "A chilling Scandinavian crime novel featuring detective Harry Hole as he investigates the disappearance of a woman whose scarf is found wrapped around a snowman."
+      },
+      {
+        "title": "Dark Places",
+        "author": "Gillian Flynn",
+        "image_link": "dark_places_image_link",
+        "rating": 3.94,
+        "genre": "Crime",
+        "description": "A gripping mystery novel about a woman named Libby Day who revisits the events of her family's murder twenty-five years ago, leading to shocking revelations about the truth."
+      },
+      {
+        "title": "The Poet",
+        "author": "Michael Connelly",
+        "image_link": "poet_image_link",
+        "rating": 4.28,
+        "genre": "Crime",
+        "description": "A suspenseful crime novel featuring journalist Jack McEvoy and FBI agent Rachel Walling as they investigate a series of murders linked to a poet who uses Edgar Allan Poe's work as inspiration."
+      },
+      {
+        "title": "The No. 1 Ladies' Detective Agency",
+        "author": "Alexander McCall Smith",
+        "image_link": "ladies_detective_agency_image_link",
+        "rating": 3.78,
+        "genre": "Crime",
+        "description": "The first book in a cozy mystery series set in Botswana, featuring Precious Ramotswe as she opens the first female-owned detective agency in the country and solves various cases."
+      },
+      {
+        "title": "Before I Go to Sleep",
+        "author": "S.J. Watson",
+        "image_link": "before_i_go_to_sleep_image_link",
+        "rating": 3.87,
+        "genre": "Crime",
+        "description": "A psychological thriller about a woman suffering from amnesia, who wakes up every day with no memory of her past, and gradually uncovers dark secrets about her own life."
+      },
+      {
+        "title": "The Alienist",
+        "author": "Caleb Carr",
+        "image_link": "alienist_image_link",
+        "rating": 4.06,
+        "genre": "Crime",
+        "description": "A historical crime novel set in New York City in the late 19th century, featuring Dr. Laszlo Kreizler and newspaper reporter John Schuyler Moore as they investigate a series of gruesome murders."
+      },
+      {
+        "title": "The Lincoln Lawyer",
+        "author": "Michael Connelly",
+        "image_link": "lincoln_lawyer_image_link",
+        "rating": 4.15,
+        "genre": "Crime",
+        "description": "The first book in the Lincoln Lawyer series, featuring defense attorney Mickey Haller as he defends a wealthy client accused of murder, only to uncover a larger conspiracy."
+      }
+    ]
+  }
+
+  {
+    "Religion/Spirituality": [
+      {
+        "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "author": "Eckhart Tolle",
+        "image_link": "power_of_now_image_link",
+        "rating": 4.13,
+        "genre": "Religion/Spirituality",
+        "description": "Explores the concept of mindfulness and living in the present moment, offering practical advice for achieving spiritual enlightenment and inner peace."
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image_link": "alchemist_image_link",
+        "rating": 3.85,
+        "genre": "Religion/Spirituality",
+        "description": "A novel by Brazilian author Paulo Coelho, following the journey of a young shepherd named Santiago as he seeks his 'Personal Legend' and learns about life's lessons and the pursuit of dreams."
+      },
+      {
+        "title": "The Seven Spiritual Laws of Success: A Practical Guide to the Fulfillment of Your Dreams",
+        "author": "Deepak Chopra",
+        "image_link": "seven_spiritual_laws_success_image_link",
+        "rating": 4.07,
+        "genre": "Religion/Spirituality",
+        "description": "Presents seven spiritual principles for achieving success and fulfillment in life, based on ancient wisdom and modern science."
+      },
+      {
+        "title": "The Celestine Prophecy",
+        "author": "James Redfield",
+        "image_link": "celestine_prophecy_image_link",
+        "rating": 3.65,
+        "genre": "Religion/Spirituality",
+        "description": "A novel that blends adventure and spiritual wisdom, following a man's journey to Peru to uncover nine insights about life, consciousness, and human evolution."
+      },
+      {
+        "title": "A New Earth: Awakening to Your Life's Purpose",
+        "author": "Eckhart Tolle",
+        "image_link": "new_earth_image_link",
+        "rating": 4.05,
+        "genre": "Religion/Spirituality",
+        "description": "Explores the nature of ego and the path to spiritual enlightenment, offering insights and practices for transcending suffering and awakening to one's true self."
+      },
+      {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "image_link": "mans_search_meaning_image_link",
+        "rating": 4.37,
+        "genre": "Religion/Spirituality",
+        "description": "Viktor Frankl's memoir, recounting his experiences as a Holocaust survivor and the development of logotherapy, a psychotherapeutic approach focused on finding meaning in life."
+      },
+      {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "author": "Don Miguel Ruiz",
+        "image_link": "four_agreements_image_link",
+        "rating": 4.16,
+        "genre": "Religion/Spirituality",
+        "description": "Offers a code of conduct based on ancient Toltec wisdom, presenting four agreements to transform one's life and achieve personal freedom and happiness."
+      },
+      {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "image_link": "siddhartha_image_link",
+        "rating": 4.01,
+        "genre": "Religion/Spirituality",
+        "description": "A novel by German author Hermann Hesse, following the spiritual journey of Siddhartha Gautama as he seeks enlightenment and self-discovery."
+      },
+      {
+        "title": "The Seat of the Soul",
+        "author": "Gary Zukav",
+        "image_link": "seat_of_soul_image_link",
+        "rating": 4.09,
+        "genre": "Religion/Spirituality",
+        "description": "Explores the concept of the soul and its evolution, presenting insights into spiritual growth, consciousness, and the alignment of one's personality with the soul's purpose."
+      },
+      {
+        "title": "The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth",
+        "author": "M. Scott Peck",
+        "image_link": "road_less_traveled_image_link",
+        "rating": 4.07,
+        "genre": "Religion/Spirituality",
+        "description": "Blending psychology and spirituality, this book explores the importance of discipline, love, and spiritual growth in achieving fulfillment and personal transformation."
+      }
+    ]
+  }
+
+  {
+    "Young Adult": [
+      {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "image_link": "hunger_games_image_link",
+        "rating": 4.33,
+        "genre": "Young Adult",
+        "description": "Set in a dystopian future, this novel follows Katniss Everdeen as she volunteers to take her sister's place in a televised fight to the death known as the Hunger Games."
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image_link": "harry_potter_sorcerers_stone_image_link",
+        "rating": 4.49,
+        "genre": "Young Adult",
+        "description": "The first book in the iconic Harry Potter series, following the young wizard Harry Potter as he discovers his magical heritage and begins his journey at Hogwarts School of Witchcraft and Wizardry."
+      },
+      {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "image_link": "fault_in_our_stars_image_link",
+        "rating": 4.24,
+        "genre": "Young Adult",
+        "description": "A heart-wrenching novel about two teenagers, Hazel and Augustus, who meet in a cancer support group and embark on a journey of love, friendship, and self-discovery."
+      },
+      {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "image_link": "twilight_image_link",
+        "rating": 3.59,
+        "genre": "Young Adult",
+        "description": "The first book in the Twilight saga, featuring Bella Swan, a teenage girl who falls in love with Edward Cullen, a vampire, and becomes entangled in the supernatural world of vampires and werewolves."
+      },
+      {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "image_link": "perks_of_being_wallflower_image_link",
+        "rating": 4.20,
+        "genre": "Young Adult",
+        "description": "A coming-of-age novel told through letters, following Charlie as he navigates high school, friendship, love, and mental health issues."
+      },
+      {
+        "title": "Divergent",
+        "author": "Veronica Roth",
+        "image_link": "divergent_image_link",
+        "rating": 4.21,
+        "genre": "Young Adult",
+        "description": "Set in a dystopian society divided into factions based on personality traits, this novel follows Tris Prior as she discovers her own identity and challenges the rigid social order."
+      },
+      {
+        "title": "To All the Boys I've Loved Before",
+        "author": "Jenny Han",
+        "image_link": "to_all_boys_ive_loved_before_image_link",
+        "rating": 4.16,
+        "genre": "Young Adult",
+        "description": "A charming romantic comedy about Lara Jean Song Covey, whose secret love letters are accidentally sent to her crushes, leading to unexpected relationships and self-discovery."
+      },
+      {
+        "title": "The Maze Runner",
+        "author": "James Dashner",
+        "image_link": "maze_runner_image_link",
+        "rating": 4.04,
+        "genre": "Young Adult",
+        "description": "The first book in the Maze Runner series, following a group of teenagers trapped in a mysterious maze with no memory of their past, as they struggle to survive and unravel the secrets of their confinement."
+      },
+      {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "image_link": "book_thief_image_link",
+        "rating": 4.37,
+        "genre": "Young Adult",
+        "description": "Narrated by Death, this novel tells the story of Liesel Meminger, a young girl living in Nazi Germany, who steals books and shares them with her neighbors, while grappling with the horrors of war and the power of words."
+      },
+      {
+        "title": "Eleanor & Park",
+        "author": "Rainbow Rowell",
+        "image_link": "eleanor_park_image_link",
+        "rating": 4.10,
+        "genre": "Young Adult",
+        "description": "A tender love story about two misfit teenagers, Eleanor and Park, who bond over music and comics, while navigating the challenges of family, identity, and first love."
+      }
+      {
+        "title": "The Selection",
+        "author": "Kiera Cass",
+        "image_link": "selection_image_link",
+        "rating": 4.15,
+        "genre": "Young Adult",
+        "description": "The first book in a dystopian romance series, following America Singer as she competes for the heart of Prince Maxon in a televised competition known as the Selection."
+      },
+      {
+        "title": "The Maze Runner",
+        "author": "James Dashner",
+        "image_link": "maze_runner_image_link",
+        "rating": 4.04,
+        "genre": "Young Adult",
+        "description": "The first book in the Maze Runner series, following a group of teenagers trapped in a mysterious maze with no memory of their past, as they struggle to survive and unravel the secrets of their confinement."
+      },
+      {
+        "title": "City of Bones",
+        "author": "Cassandra Clare",
+        "image_link": "city_of_bones_image_link",
+        "rating": 4.12,
+        "genre": "Young Adult",
+        "description": "The first book in The Mortal Instruments series, following Clary Fray as she discovers she is a Shadowhunter and becomes embroiled in a world of demons, vampires, and werewolves."
+      },
+      {
+        "title": "Fangirl",
+        "author": "Rainbow Rowell",
+        "image_link": "fangirl_image_link",
+        "rating": 4.09,
+        "genre": "Young Adult",
+        "description": "A heartfelt novel about fanfiction, family, and first love, following introverted college freshman Cath as she navigates the challenges of independence and relationships."
+      },
+      {
+        "title": "Cinder",
+        "author": "Marissa Meyer",
+        "image_link": "cinder_image_link",
+        "rating": 4.15,
+        "genre": "Young Adult",
+        "description": "The first book in The Lunar Chronicles series, a futuristic retelling of Cinderella, featuring a cyborg mechanic named Cinder who becomes involved in a rebellion against a tyrannical queen."
+      },
+      {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "image_link": "perks_of_being_wallflower_image_link",
+        "rating": 4.20,
+        "genre": "Young Adult",
+        "description": "A coming-of-age novel told through letters, following Charlie as he navigates high school, friendship, love, and mental health issues."
+      },
+      {
+        "title": "Six of Crows",
+        "author": "Leigh Bardugo",
+        "image_link": "six_of_crows_image_link",
+        "rating": 4.45,
+        "genre": "Young Adult",
+        "description": "The first book in the Six of Crows duology, following a band of six outcasts as they attempt a daring heist in the bustling city of Ketterdam, amidst political intrigue and magical forces."
+      },
+      {
+        "title": "The Hate U Give",
+        "author": "Angie Thomas",
+        "image_link": "hate_u_give_image_link",
+        "rating": 4.34,
+        "genre": "Young Adult",
+        "description": "A powerful novel about racism, police brutality, and activism, following sixteen-year-old Starr Carter as she witnesses the fatal shooting of her childhood friend by a police officer."
+      },
+      {
+        "title": "The Raven Boys",
+        "author": "Maggie Stiefvater",
+        "image_link": "raven_boys_image_link",
+        "rating": 4.06,
+        "genre": "Young Adult",
+        "description": "The first book in The Raven Cycle series, following Blue Sargent as she becomes involved with a group of private school boys searching for the tomb of a Welsh king, and the magical secrets hidden in their small town."
+      },
+      {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "author": "Ransom Riggs",
+        "image_link": "miss_peregrines_home_image_link",
+        "rating": 3.91,
+        "genre": "Young Adult",
+        "description": "The first book in the Miss Peregrine's Peculiar Children series, featuring Jacob Portman as he discovers a hidden home for children with supernatural abilities and unravels the mysteries of his own family."
+      }
+    ]
+  }
+  
+  
+    
