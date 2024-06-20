@@ -25,11 +25,21 @@ mongoose
 
 app.use(bodyParser.json());
 
+const allowedOrigins =
+  process.env.NODE_ENV === "production"
+    ? ["https://recommendo-reads.vercel.app/"]
+    : ["http://localhost:3000"];
+
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: allowedOrigins,
   })
 );
+// app.use(
+//   cors({
+//     origin: "http://localhost:3000",
+//   })
+// );
 
 app.get("/", async function (req, res) {
   try {
