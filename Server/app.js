@@ -27,7 +27,7 @@ app.use(bodyParser.json());
 
 const allowedOrigins =
   process.env.NODE_ENV === "production"
-    ? ["https://recommendo-reads.vercel.app/"]
+    ? ["https://recommendo-reads.vercel.app"]
     : ["http://localhost:3000"];
 
 app.use(
