@@ -8,7 +8,7 @@ const bodyParser = require("body-parser");
 const app = express();
 
 dotenv.config({ path: "./config.env" });
-const DB = process.env.DATABASE.replace(
+const DB = process.env.MONGODB_URI.replace(
   "<PASSWORD>",
   process.env.DATABASE_PASSWORD
 );
@@ -25,16 +25,22 @@ mongoose
 
 app.use(bodyParser.json());
 
+port = 9000;
+app.listen(port, () => {
+  console.log("Hello !");
+});
+
 const allowedOrigins =
   process.env.NODE_ENV === "production"
     ? ["https://recommendo-reads.vercel.app"]
-    : ["http://localhost:3000"];
+    : ["http://localhost:9000"];
 
 app.use(
   cors({
     origin: allowedOrigins,
   })
 );
+
 // app.use(
 //   cors({
 //     origin: "http://localhost:3000",
@@ -406,11 +412,6 @@ async function bookRecommendationBasedOnSingleBook(bookGenres, bookTitle) {
     throw error;
   }
 }
-
-port = 9000;
-app.listen(port, () => {
-  console.log("Hello !");
-});
 
 const bookSchema = new mongoose.Schema({
   title: {
