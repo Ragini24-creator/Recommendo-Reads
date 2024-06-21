@@ -10,7 +10,7 @@ const app = express();
 dotenv.config({ path: "./config.env" });
 const DB = process.env.MONGODB_URI.replace(
   "<PASSWORD>",
-  process.env.DATABASE_PASSWORD
+  process.env.VERCEL_ADMIN_MONGO_PASSWORD
 );
 
 mongoose
