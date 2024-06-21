@@ -8,9 +8,9 @@ const bodyParser = require("body-parser");
 const app = express();
 
 dotenv.config({ path: "./config.env" });
-const DB = process.env.MONGODB_URI.replace(
+const DB = process.env.DATABASE.replace(
   "<PASSWORD>",
-  process.env.VERCEL_ADMIN_MONGO_PASSWORD
+  process.env.DATABASE_PASSWORD
 );
 
 mongoose
@@ -27,13 +27,13 @@ app.use(bodyParser.json());
 
 port = 9000;
 app.listen(port, () => {
-  console.log("Hello !");
+  console.log(`Server is running on port ${port}`);
 });
 
 const allowedOrigins =
   process.env.NODE_ENV === "production"
     ? ["https://recommendo-reads.vercel.app"]
-    : ["http://localhost:9000"];
+    : ["http://localhost:3000"];
 
 app.use(
   cors({
