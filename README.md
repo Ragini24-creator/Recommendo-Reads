@@ -13,7 +13,10 @@
  - **Book Details**: View detailed information about each book, including descriptions and author details.
  - **User Interaction**: Users can add books to their cart and see recommended books etc.
 
-
+Technologies Used
+Backend: Node.js, Express.js
+Frontend:React.js
+Database: MongoDB
 
 # Getting Started with Create React App
 
