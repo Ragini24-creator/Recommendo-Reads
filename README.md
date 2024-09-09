@@ -1,3 +1,20 @@
+#RecommendoReads
+
+## Introduction
+
+**RecommendoReads** is a book recommendation system built using the MERN stack.The application leverages various recommendation algorithms to suggest books based on user preferences and behavior. Users can explore book recommendations tailored to their interests, view book details, and receive suggestions based on their browsing history.
+
+## Features
+
+ -**Custom Backend API**: Developed from scratch to manage book data and user interactions efficiently.
+ - **Interactive UI**: A user-friendly interface built with React.js that allows users to search for books, view details, and receive personalized recommendations.
+ - **Personalized Recommendations**: Suggestions based on user interactions, including books they’ve clicked, searched, and added to their cart.
+ - **Search and Filter**: Users can search for books and filter results based on categories or keywords.
+ - **Book Details**: View detailed information about each book, including descriptions and author details.
+ - **User Interaction**: Users can add books to their cart and see recommended books etc.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
