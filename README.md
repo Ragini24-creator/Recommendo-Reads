@@ -58,6 +58,4 @@ After running both servers, you should be able to access the application in your
 
 ### Screenshots 
 ![Main Interface](./assets/screenshot1.png)
-![Main Interface](./assets/screenshot4.png)
-![Main Interface](./assets/screenshot5.png)
-![Main Interface](./assets/screenshot2.png)
+
