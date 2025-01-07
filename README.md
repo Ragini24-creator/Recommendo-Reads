@@ -32,21 +32,29 @@ To get your development environment set up and run the project locally, follow t
 ### 1. Clone the Repository
 
 Start by cloning the repository to your local machine:
-
-```bash
 git clone https://github.com/your-username/RecommendoReads.git
 
+### 2. Install Dependencies
+Navigate to the project folder and install the required dependencies for both the frontend and backend:
+cd RecommendoReads
+npm install
 
-2. Install dependencies: Navigate to the project folder and run the following command to install the required dependencies:
-    cd RecommendoReads
-    npm install
+### 3. Run the Project
+To run the project locally, follow these steps:
+Run the Backend Server:
+Start the backend server by running:
+npm run server
 
-3. Run the project:
+This will start the backend on http://localhost:5000 (or any other port defined in your configuration).
 
-Start the server (Backend):
-npm run server 
-
-Start the frontend (React app):
+Run the Frontend (React App):
+Open a new terminal window, navigate to the same project directory, and run:
 npm run client
 
-App should now be live at http://localhost:3000
+This will start the React app on http://localhost:3000.
+
+### Access the Application
+After running both servers, you should be able to access the application in your web browser by visiting http://localhost:3000.
+
+
+
