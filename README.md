@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# RecommendoReads - Book Recommendation System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+RecommendoReads is a book recommendation system built using the MERN stack. The application leverages various recommendation algorithms to suggest books based on user preferences and behavior. Users can explore book recommendations tailored to their interests, view book details, and receive suggestions based on their browsing history.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Custom Backend API**: Developed from scratch to manage book data and user interactions efficiently. The backend is built with Node.js and Express.js, ensuring smooth and fast interactions with the database.
 
-### `npm start`
+- **Interactive UI**: A user-friendly interface built with React.js that allows users to search for books, view details, and receive personalized recommendations.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Personalized Recommendations**: Suggestions based on user interactions, including books they’ve clicked, searched, and added to their cart. The system utilizes advanced algorithms to tailor suggestions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Search and Filter**: Users can search for books and filter results based on categories, keywords, or their browsing history. This feature allows users to find books quickly and easily.
 
-### `npm test`
+- **Book Details**: View detailed information about each book, including descriptions, author details, and ratings. Users can get more insights into the books they are interested in.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **User Interaction**: Users can add books to their cart and see recommended books based on their activity. The app tracks user behavior to enhance suggestions over time.
 
-### `npm run build`
+- **Responsive Design**: Optimized for all screen sizes to provide a seamless experience on desktop, tablet, and mobile devices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Backend**: Node.js, Express.js
+- **Frontend**: React.js
+- **Database**: MongoDB
+- **Version Control**: GitHub for code management and version control
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To get your development environment set up and run the project locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 1. Clone the Repository
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Start by cloning the repository to your local machine:
+git clone https://github.com/your-username/RecommendoReads.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 2. Install Dependencies
+Navigate to the project folder and install the required dependencies for both the frontend and backend:
+cd RecommendoReads
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 3. Run the Project
+To run the project locally, follow these steps:
+Run the Backend Server:
+Start the backend server by running:
+npm run server
 
-## Learn More
+This will start the backend on http://localhost:5000 (or any other port defined in your configuration).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Run the Frontend (React App):
+Open a new terminal window, navigate to the same project directory, and run:
+npm run client
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This will start the React app on http://localhost:3000.
 
-### Code Splitting
+### Access the Application
+After running both servers, you should be able to access the application in your web browser by visiting http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
