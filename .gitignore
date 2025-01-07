@@ -19,6 +19,8 @@
 .env.production.local
 config.env
 unwantedData.txt
+Server/books.json
+Server/node_modules
 
 
 
